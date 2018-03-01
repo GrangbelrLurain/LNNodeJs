@@ -1,0 +1,8 @@
+this is Manual for me
+
+## ServerSideJS(2018.02.25 ~ ) ##
+  1. Login Naver ==> Download "git", "Atom", "Node.js"
+  2. git Login
+     git clone https://github.com/GrangbelrLurain/Learning.git
+  3. Learning Node.js (https://www.youtube.com/playlist?list=PLuHgQVnccGMBnrdKRODJmbH7UZ2A48LBK)
+  4. Enjoy Learning

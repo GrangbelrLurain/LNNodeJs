@@ -1,0 +1,20 @@
+{
+  "name": "serversidejs",
+  "version": "1.0.0",
+  "description": "server side javascript learning",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/GarngbelrLurain/Learning.git)"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "pug": "^2.0.0-rc.4",
+    "underscore": "^1.8.3"
+  }
+}

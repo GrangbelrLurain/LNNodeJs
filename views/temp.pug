@@ -1,0 +1,10 @@
+html
+  head
+    title title
+  body
+    h1 hello Jade
+    ul
+      -/*for를 사용하기 위해서 -를 붙여야 js 문법으로 인정된다.*/for(var i=0; i<5; i++)
+        li coding
+    div= Date()/*이것도 작동 되넹*/
+    div= time/*time 변수는 app.js에서 가져와야 한다.*/
